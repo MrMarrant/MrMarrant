@@ -1,4 +1,5 @@
-### Hi there 👋
+![MrMarrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMarrant&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMarrant&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MrMarrant/MrMarrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
