@@ -1,5 +1,5 @@
 <i>Un bon développeur, est un développeur feignant.</i><br>
-Je suis développeur Full Stack Web, spécialisé en PHP.<br>
+Je suis développeur Full Stack, spécialisé en PHP/Flutter.<br>
 Je suis aussi développeur pour la communauté Garry's Mod occasionnellement, notamment en créant du contenu pour la [Fondation SCP](http://fondationscp.wikidot.com/).<br>
 Vous pouvez me contacter sur [Steam](https://steamcommunity.com/id/mrmarrant) ou pour voir mes réalisations.
 <br><br>
