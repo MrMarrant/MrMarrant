@@ -1,25 +1,32 @@
-<i>Un bon développeur, est un développeur feignant.</i><br>
-Je suis développeur Full Stack, spécialisé en PHP/Flutter.<br>
-Je suis aussi développeur pour la communauté Garry's Mod occasionnellement, notamment en créant du contenu pour la [Fondation SCP](http://fondationscp.wikidot.com/).<br>
-Vous pouvez me contacter sur [Steam](https://steamcommunity.com/id/mrmarrant) ou pour voir mes réalisations.
+<h1 align="center">Yo 👋</h1>
+
+<i>A good developer is a lazy developer </i>🤓👆
+
+
+I'm a full-stack developer, specializing in PHP/Flutter/Lua.<br>
+I'm also an occasional developer for the Garry's Mod community, creating content for the [Foundation SCP](http://fondationscp.wikidot.com/).<br>
+You can contact me on [Steam](https://steamcommunity.com/id/mrmarrant) or to see my creations 😎
 <br><br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Php](https://img.shields.io/badge/php-%23F24E1E.svg?style=plastic&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%232C8EBB.svg?style=plastic&logo=symfony&logoColor=white) ![Yii2](https://img.shields.io/badge/yii2-%232C8EBB.svg?style=plastic&logo=yii2&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=plastic&logo=docker&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Php](https://img.shields.io/badge/php-%23F24E1E.svg?style=plastic&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%232C8EBB.svg?style=plastic&logo=symfony&logoColor=white) ![Yii2](https://img.shields.io/badge/yii2-%232C8EBB.svg?style=plastic&logo=yii2&logoColor=white)
 
-# 📊 Stats Git
-![MrMarrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMarrant&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMarrant&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**MrMarrant/MrMarrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😂  About Me
+        ▶️ French(sob)/Spanish/English
+        ▶️ Old
+        ▶️ Master in Expert in IT & Information Systems
+        ▶️ Web/Mobile/Games
 
-Here are some ideas to get you started:
+## 🧰  My Works
+        ▶️ A lot of addons on Garry's Mod
+        ▶️ ERP for a private company
+        ▶️ Portfolio
+        ▶️ Mobile application for a department
+        ▶️ BackEnd for a famous aquarium
+        ▶️ Ect ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔  Now
+        ▶️ Find a new job as a fullstack developer
+        ▶️ Work on a new addon for the SCP community
+        ▶️ Upgrade my skills on new stacks
+        
+# Please, do not hesitate to contact me if you have any questions 🙂
