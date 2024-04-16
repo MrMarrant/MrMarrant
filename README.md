@@ -11,8 +11,7 @@ You can contact me on [Steam](https://steamcommunity.com/id/mrmarrant) or to see
 
 
 ## 😂  About Me
-        ▶️ French(sob)/Spanish/English
-        ▶️ Old
+        ▶️ French/Spanish/English/Lua💀
         ▶️ Master in Expert in IT & Information Systems
         ▶️ Web/Mobile/Games
 
@@ -22,11 +21,11 @@ You can contact me on [Steam](https://steamcommunity.com/id/mrmarrant) or to see
         ▶️ Portfolio
         ▶️ Mobile application for a department
         ▶️ BackEnd for a famous aquarium
+        ▶️ Unreal Games
         ▶️ Ect ...
 
 ## 🤔  Now
-        ▶️ Find a new job as a fullstack developer
-        ▶️ Work on a new addon for the SCP community
+        ▶️ Finish my last prototype for the biggest SCP project i ever did
         ▶️ Upgrade my skills on new stacks
         
 # Please, do not hesitate to contact me if you have any questions 🙂
