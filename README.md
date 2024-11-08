@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <i>A good developer is a lazy developer </i>🤓👆
 
@@ -18,14 +18,10 @@ You can contact me on [Steam](https://steamcommunity.com/id/mrmarrant) or to see
 ## 🧰  My Works
         ▶️ A lot of addons on Garry's Mod
         ▶️ ERP for a private company
-        ▶️ Portfolio
+        ▶️ Website of the French army
         ▶️ Mobile application for a department
         ▶️ BackEnd for a famous aquarium
         ▶️ Unreal Games
         ▶️ Ect ...
-
-## 🤔  Now
-        ▶️ Finish my last prototype for the biggest SCP project i ever did
-        ▶️ Upgrade my skills on new stacks
         
 # Please, do not hesitate to contact me if you have any questions 🙂
