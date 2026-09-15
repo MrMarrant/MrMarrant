@@ -1,27 +1,47 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">📺 Bienvenue sur MrMarrant TV</h1>
+<h3 align="center">La chaîne qui diffuse du code 24h/24, 7j/7</h3>
 
-<i>A good developer is a lazy developer </i>🤓👆
+<p align="center"><i>« Un bon développeur est un développeur paresseux » — 🤓👆, présentateur vedette</i></p>
 
+---
 
-I'm a full-stack developer, specializing in PHP/Flutter/Lua.<br>
-I'm also an occasional developer for the Garry's Mod community, creating content for the [Foundation SCP](http://fondationscp.wikidot.com/).<br>
-You can contact me on [Steam](https://steamcommunity.com/id/mrmarrant) or to see my creations 😎
-<br><br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=plastic&logo=docker&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Php](https://img.shields.io/badge/php-%23F24E1E.svg?style=plastic&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%232C8EBB.svg?style=plastic&logo=symfony&logoColor=white) ![Yii2](https://img.shields.io/badge/yii2-%232C8EBB.svg?style=plastic&logo=yii2&logoColor=white)
+## 📡 Édito de la rédaction
 
+Bonsoir à toutes et à tous, et bienvenue, je me présente,  **MrMarrant** !
 
-## 😂  About Me
-        ▶️ French/Spanish/English/Lua💀
-        ▶️ Master in Expert in IT & Information Systems
-        ▶️ Web/Mobile/Games
+Ce soir, votre chaîne vous présente un développeur **full-stack**, spécialiste **PHP / Flutter / Lua**, également connu sous ses heures perdues comme créateur de contenu pour la communauté **Garry's Mod**, notamment autour de la [Fondation SCP](http://fondationscp.wikidot.com/).
 
-## 🧰  My Works
-        ▶️ A lot of addons on Garry's Mod
-        ▶️ ERP for a private company
-        ▶️ Website of the French army
-        ▶️ Mobile application for a department
-        ▶️ BackEnd for a famous aquarium
-        ▶️ Unreal Games
-        ▶️ Ect ...
-        
-# Please, do not hesitate to contact me if you have any questions 🙂
+📞 **Standard ouvert** : contactez le studio sur [Steam](https://steamcommunity.com/id/mrmarrant) pour échanger ou découvrir ses dernières créations 😎
+
+---
+
+## 🎙️ Portrait de l'invité — "Qui êtes-vous ?"
+
+> L'émission phare du dimanche soir où l'on apprend à connaître nos invités.
+
+        ▶️ Langues parlées : Français / Espagnol / Anglais / Lua 💀
+        ▶️ Diplôme : Master Expert en Informatique & Systèmes d'Information
+        ▶️ Domaines de prédilection : Web / Mobile / Jeux vidéo
+
+---
+
+## 🎬 Le magazine des créations — "Ce qu'il a dans le ventre"
+
+> Chaque semaine, un reportage exclusif sur les projets réalisés en coulisses.
+
+        ▶️ 🎮 De nombreux addons sur Garry's Mod
+        ▶️ 🏢 ERP pour une entreprise privée
+        ▶️ 🇫🇷 Site web de l'armée française
+        ▶️ 📱 Application mobile pour un département
+        ▶️ 🐠 BackEnd pour un aquarium renommé
+        ▶️ 🕹️ Jeux sous Unreal Engine
+        ▶️ ... et bien d'autres épisodes à venir !
+
+---
+
+## 📻 Fin du programme
+
+<p align="center">
+  <b>N'hésitez pas à contacter le studio si vous avez la moindre question 🙂</b><br>
+  <i>Restez à l'écoute, la prochaine émission arrive bientôt...</i> 📺✨
+</p>
