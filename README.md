@@ -1,7 +1,6 @@
-<h1 align="center">📺 Bienvenue sur MrMarrant TV</h1>
-<h3 align="center">La chaîne qui diffuse du code 24h/24, 7j/7</h3>
+<h1 align="center">📺 Bienvenue sur MrMarrant</h1>
 
-<p align="center"><i>« Un bon développeur est un développeur paresseux » — 🤓👆, présentateur vedette</i></p>
+<p align="center"><i>« Un bon développeur est un développeur feignant » — 🤓👆, présentateur vedette</i></p>
 
 ---
 
